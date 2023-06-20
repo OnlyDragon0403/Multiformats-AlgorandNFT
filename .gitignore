@@ -1,0 +1,5 @@
+html
+latex
+*.swp
+.idea
+./cmake-build-debug-visual-studio

@@ -1,0 +1,9 @@
+# ninja log v5
+1	101	7089209811707869	build.ninja	2e758025b970c1d6
+8	1932	7089027317261565	CMakeFiles/multiformats.dir/src/multiaddr.cpp.obj	812fd2c2aa2843de
+24	1355	7089027311357368	CMakeFiles/multiformats.dir/utils/base.cpp.obj	51713b33ce20e118
+1	806	7089160843158328	CMakeFiles/multiformats.dir/src/multihash.cpp.obj	631d9321fd96445b
+1	1496	7089027312893251	CMakeFiles/multiformats.dir/src/cid.cpp.obj	baa7de25af5f34f6
+18	1895	7089027316882571	CMakeFiles/multiformats.dir/src/multibase.cpp.obj	fb9aec32766e92c6
+748	888	7089205759489460	multiformats.exe	4e280b2e57310749
+1	747	7089205758352505	CMakeFiles/multiformats.dir/main.cpp.obj	87e3741856ffa2c9
